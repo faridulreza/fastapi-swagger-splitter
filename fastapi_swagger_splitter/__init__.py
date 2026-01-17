@@ -10,5 +10,5 @@ This package provides enhanced Swagger UI documentation for FastAPI applications
 
 from fastapi_swagger_splitter.splitter import setup_swagger_splitter
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __all__ = ["setup_swagger_splitter"]
