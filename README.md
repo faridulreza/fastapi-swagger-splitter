@@ -2,13 +2,9 @@
 
 Enhanced Swagger UI for FastAPI applications with tag-based filtering, download links, and search functionality.
 
-## Features
+## Why?
+So that your frontend developer can grab the tag specific OpenAPI json and use it with AI to implement the API calls without overflowing AI context.
 
-- 🎨 **Custom Styled UI** - Beautiful, modern Swagger UI with custom CSS
-- 📥 **Download Links** - Download complete or tag-specific OpenAPI JSON schemas
-- 🔍 **Tag Search** - Search and filter tags in real-time
-- 🏷️ **Tag-based Filtering** - Generate OpenAPI schemas filtered by specific tags
-- 🚀 **Easy Integration** - Simple setup with just one function call
 
 ## Installation
 
